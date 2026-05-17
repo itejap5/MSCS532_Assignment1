@@ -1,5 +1,5 @@
 # MSCS532 Assignment 1
-# Insertion Sort in monotonically decreasing order
+# This program demonstrates insertion sort in decreasing order.
 
 def insertion_sort_descending(arr):
     """
